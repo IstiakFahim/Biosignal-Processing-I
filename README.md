@@ -1,2 +1,2 @@
 # Biosignal-Processing-I
-Assignments from the *Biosignal Processing I* course at the University of Oulu, supervised by Professor Tapio Seppänen. The course focused on techniques for processing and analyzing biosignals. These assignments showcase my understanding and application of core concepts in biosignal processing.
+This repository contains the assignments completed as part of the Biosignal Processing I course at the University of Oulu, supervised by Professor Tapio Seppänen. The course focuses on the fundamental techniques and methods used in the processing and analysis of biosignals. These assignments demonstrate my understanding and implementation of various concepts covered in the course.
